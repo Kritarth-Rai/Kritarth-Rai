@@ -44,6 +44,8 @@ Kritarth Rai</a></h1>
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 	<a style="margin-left: 5px;" target="_blank" href="https://wa.me/916360064556">
 			<img src="https://img.icons8.com/doodle/1x/whatsapp--v2.png" ></a>
+	 <a style="margin-left: 5px;" target="_blank" href="https://open.spotify.com/user/92f7zpn6j0n4xq527ag2g8dcv?si=0dcb09d235e74f02">
+			<img src="https://img.icons8.com/doodle/1x/spotify--v2.png" ></a>
       </div>
 
 </p>
