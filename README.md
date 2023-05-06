@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Kritarth Rai</a></h1>
-<h3 align="center">A Student exited about cyber stuff &#127470;&#127475</h3>
+<h3 align="center">A Student exited about graphic design &#127470;&#127475</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kritarth-Rai&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
@@ -13,16 +13,16 @@ Kritarth Rai</a></h1>
 - 🔭 I’m currently a student studying in [<b>V</b>ellore <b>I</b>nstitute of <b>T</b>ecnology, Bhopal](https://vitbhopal.ac.in/).
 <br/>
 
-- 🌱 I’m currently Working on Cyber or Networking related issues. 
+- 🌱 I’m currently Working on UI/UX development. 
 <br/>
 
 - 🤝 I’m available for Web developing.
 <br/>
 
-- 🌱 I’m currently learning Ruby && MongoDB .
+- 🌱 I’m currently learning Figma && Adobe XD .
 <br/>
 
-- 💬 Ask me about **Networking & JS stuff**.
+- 💬 Ask me about **Current Graphic Market Scenerio**.
 <br/>
 
 - 📫 How to reach me **kritarthrai@gmail.com**.
